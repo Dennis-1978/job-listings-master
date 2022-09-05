@@ -73,7 +73,7 @@ const JobPosition = ({
 	)
 }
 
-export {JobPosition};
+export { JobPosition };
 
 JobPosition.propTypes = {
 	id: PropTypes.number,

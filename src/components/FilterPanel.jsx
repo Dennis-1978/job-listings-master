@@ -19,4 +19,4 @@ const FilterPanel = () => {
 	)
 }
 
-export {FilterPanel};
+export { FilterPanel };

@@ -20,7 +20,7 @@ const Badge = ({
 	</div>
 );
 
-export {Badge};
+export { Badge };
 
 Badge.propTypes = {
 	variant: PropTypes.oneOf(['basic', 'clearable', 'rounded']),

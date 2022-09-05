@@ -8,7 +8,7 @@ const Stack = ({children, pos}) => (
 	</div>
 );
 
-export {Stack};
+export { Stack };
 
 Stack.propTypes = {
 	children: PropTypes.node.isRequired,
